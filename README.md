@@ -4,6 +4,9 @@ Python processing for creating Relative Elevation Model (REM) imagery to support
 
 A screenshot of the blog post can be found at [./Screenshot_2025-12-06HoustonHasTopographyLookingAtWhyBuffaloBayouDoesNotDrainToTheSeaDirectly.png](./Screenshot_2025-12-06HoustonHasTopographyLookingAtWhyBuffaloBayouDoesNotDrainToTheSeaDirectly.png) or at bottom of README.
 
+[![DOI](https://zenodo.org/badge/1110961621.svg)](https://doi.org/10.5281/zenodo.17843207)
+
+
 ## Overview
 
 This repository contains the data processing pipeline used to create relative elevation model (REM) visualizations of the Buffalo Bayou area near Houston, Texas. REMs are useful for revealing subtle topographic features related to rivers and geology that are difficult to see in standard elevation maps.
