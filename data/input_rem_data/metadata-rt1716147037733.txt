@@ -1,0 +1,57 @@
+Dataset Information:
+
+Dataset Name: USGS 1/3 arc-second Digital Elevation Model(USGS10m)
+
+Dataset Acknowledgement: 
+U.S. Geological Survey, 2017, 1/3rd arc-second Digital Elevation Models (DEMs) - USGS National Map 3DEP Downloadable Data Collection: U.S. Geological Survey
+
+Data Access Acknowledgement: This material is based on [data, processing] services provided by the OpenTopography Facility with support from the National Science Foundation under NSF Award Numbers 1833703, 1833643, and 1833632.
+
+Dataset Citation: United States Geological Survey (2021). United States Geological Survey 3D Elevation Program 1/3 arc-second Digital Elevation Model. Distributed by OpenTopography. https://doi.org/10.5069/G98K778D. Accessed: 2024-05-22
+
+Horizontal Coordinates: NAD83 [EPSG: 4269]
+Vertical Coordinates: NAVD88 [EPSG: 5703]
+
+Job Description:
+	User:jgosses82@gmail.com
+	Job ID: rt1716147037733
+	Title: Regional Buffalo Bayou  v1
+	Description:Tiff, multi-directional hillshade with 20x exaggeration, kml for boundary. Boundary edges are Xmin = -96.207303	  Ymin = 29.324906	  Xmax = -94.634402	  Ymax = 30.083256 
+
+Job Processing Result:
+	Submission Time: 2024-05-19 19:30:37
+	Completion Time: 2024-05-19 19:34:59
+	Duration: 262 seconds
+	Status: Done
+
+Data Selection Coordinates: 
+	Xmin: -96.207303
+	Xmax: -94.634402
+	Ymin: 29.324906
+	Ymax: 30.083256
+
+Input & Output Options: 
+	Data Type: Global
+	Output Format: GeoTiff
+	Layer Type: 
+
+Raster Visualization:
+	Dem types: Hillshade: Yes,  Color Relief: No,  Color Hillshade: No,  Slope: No, Aspect: No, Roughness: No
+	Multidirectional: Yes
+	KMZ Option: Yes
+	Output Format: tif
+	Vertical Exaggeration: 20
+
+Canopy Height Model:
+	Enable Canopy Height Model: No
+
+Hydrologic Terrain Analysis (TauDEM) Products:
+	Hydrologically correct DEM with pits filled: No
+	D-Infinity Flow Direction : No
+	D-Infinity Specific Catchment Area: No
+	Topographic Wetness Index: No
+	D8 Flow Direction: No
+	tauDemD8FlowDir: No
+
+Contour Lines:
+	Generate contour lines: No
