@@ -2,6 +2,8 @@
 
 Python processing for creating Relative Elevation Model (REM) imagery to support the blog post: [Why Buffalo Bayou Does Not Drain to the Sea](https://justingosses.com/blog/why-buffalo-bayou-does-not-drain-to-the-sea)
 
+A screenshot of the blog post can be found at [./Screenshot_2025-12-06HoustonHasTopographyLookingAtWhyBuffaloBayouDoesNotDrainToTheSeaDirectly.png](./Screenshot_2025-12-06HoustonHasTopographyLookingAtWhyBuffaloBayouDoesNotDrainToTheSeaDirectly.png) or at bottom of README.
+
 ## Overview
 
 This repository contains the data processing pipeline used to create relative elevation model (REM) visualizations of the Buffalo Bayou area near Houston, Texas. REMs are useful for revealing subtle topographic features related to rivers and geology that are difficult to see in standard elevation maps.
@@ -131,3 +133,17 @@ OpenTopography. https://doi.org/10.5069/G98K778D. Accessed: 2024-05-25
 ## License
 
 See [LICENSE](LICENSE) file.
+
+## Blog post images methodology
+
+The resulting kmz file that contains the tiff data was uploaded into [Google Earth Pro application](https://support.google.com/earth/answer/21955?hl=en) on a desktop.
+
+This allows for visualization of the data in a way that allows both for overlay of roads and other google provided data, zooming in and out, and creation of [elevation profiles along transects](https://support.google.com/earth/answer/148134?hl=en). 
+All of these were necessary for the blog post images.
+
+## Blog post
+
+The blog post that used this data
+[Why Buffalo Bayou Does Not Drain to the Sea](https://justingosses.com/blog/why-buffalo-bayou-does-not-drain-to-the-sea) is replicated below in screenshot:
+
+![./Screenshot_2025-12-06HoustonHasTopographyLookingAtWhyBuffaloBayouDoesNotDrainToTheSeaDirectly.png](./Screenshot_2025-12-06HoustonHasTopographyLookingAtWhyBuffaloBayouDoesNotDrainToTheSeaDirectly.png)
